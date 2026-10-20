@@ -1,1 +1,1 @@
-"Learning git"
+"Learning Git merge conflicts"
